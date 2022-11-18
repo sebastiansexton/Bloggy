@@ -3,7 +3,7 @@ import styles from "../../styles/Slug.module.css";
 import moment from "moment";
 
 const graphcms = new GraphQLClient(
-  "https://api-eu-west-2.graphcms.com/v2/cl21zpqgk4oep01xtflkm1vff/master"
+  "https://api-eu-west-2.hygraph.com/v2/clalhyk7r20kx01tc9qipb81z/master"
 );
 
 const QUERY = gql`
